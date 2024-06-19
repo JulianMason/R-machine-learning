@@ -1,6 +1,6 @@
 ### Repository Summary: R Machine Learning
 
-This repository, titled **"R Machine Learning"**, contains comprehensive R coding solutions and reports for three distinct machine learning projects. Each project is stored in its respective folder and tackles a unique analytical task using various statistical and machine learning techniques. The final reports for each project are available in both PDF and HTML formats, providing detailed insights, results, and visualizations.
+This repository contains comprehensive R coding solutions and reports for three distinct machine learning projects. Each project is stored in its respective folder and tackles a unique analytical task using various statistical and machine learning techniques. The final reports for each project are available in both PDF and HTML formats, providing detailed insights, results, and visualizations.
 
 ### Projects Overview
 
