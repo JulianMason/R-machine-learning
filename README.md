@@ -18,4 +18,4 @@ This repository contains comprehensive R coding solutions and reports for three 
 
 ### Summary
 
-The **"R Machine Learning"** repository demonstrates the application of various statistical and machine learning techniques to solve real-world problems using R. It includes detailed analyses, model evaluations, and insightful results for predicting Brexit voting patterns, Olympic medal counts, and mushroom edibility. The repository serves as a valuable resource for understanding the practical use of machine learning in different contexts.
+This repository demonstrates the application of various statistical and machine learning techniques to solve real-world problems using R. It includes detailed analyses, model evaluations, and insightful results for predicting Brexit voting patterns, Olympic medal counts, and mushroom edibility. The repository serves as a valuable resource for understanding the practical use of machine learning in different contexts.
